@@ -1,0 +1,30 @@
+
+footer{
+    color: white;
+    margin-top: 5em;
+    align-content: center;
+}
+body{
+    background-color: grey;
+}
+.info b{
+    font-size: 40px;
+}
+.info p{
+    font-size: 20px;
+}
+#git{
+    margin-bottom: -1em;
+    
+}
+h5{
+    margin-left: -1em;
+}
+#twitter{
+    margin-bottom: -1em;
+    
+}
+#fbk{
+    margin-right: 1em;
+    margin-bottom: -0.5em;
+}
